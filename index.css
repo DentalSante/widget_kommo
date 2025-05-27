@@ -70,7 +70,7 @@
   	z-index: 4;
 }
 .purple {
-		height: 100vh;
+		height: 100dvh;
   	width: 100%;
   	position: relative;
   	background-color: #0d0d0d;
@@ -84,5 +84,12 @@
   	font-size: 40px;
   	color: #fff;
   	font-family: Manrope;
+}
+
+.iframe-container {
+	height: 100dvh;
+	width: 100%;
+	position: relative;
+	overflow: hidden;
 }
 
